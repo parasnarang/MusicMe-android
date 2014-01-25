@@ -1,0 +1,2 @@
+include ':libraries:facebook'
+include ':MusicMe'
